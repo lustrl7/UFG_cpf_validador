@@ -1,0 +1,11 @@
+{
+  "name": "validador-cpf",
+  "version": "1.0.0",
+  "description": "Validador de CPF com arquitetura modular",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "author": "Seu nome",
+  "license": "MIT"
+}

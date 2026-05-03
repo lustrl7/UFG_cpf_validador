@@ -1,7 +1,15 @@
-# Validador de CPF PRO
+# 🧾 Validador de CPF PRO
 
-Projeto simples e modular para validar CPF usando JavaScript.
+Projeto modular inspirado em boas práticas modernas.
 
-## Como usar
+## 🌐 Deploy (GitHub Pages)
 
-Abra o arquivo public/index.html no navegador.
+https://SEU-USUARIO.github.io/validador-cpf
+
+## ▶️ Como usar
+Abra public/index.html no navegador.
+
+## Estrutura
+- public/
+- src/services
+- src/utils

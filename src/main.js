@@ -6,11 +6,14 @@ window.validar = function () {
   const resultado = document.getElementById("resultado");
 
   let cpf = input.value;
+
   input.value = formatarCPF(cpf);
 
   if (validarCPF(cpf)) {
     resultado.innerText = "CPF válido ✅";
+    resultado.style.color = "green";
   } else {
     resultado.innerText = "CPF inválido ❌";
+    resultado.style.color = "red";
   }
 };
