@@ -40,8 +40,8 @@ Desenvolver uma aplicação simples porém estruturada profissionalmente para va
 
 ### 🔗 Links
 
-- 🌐 Live Site: https://SEU-USUARIO.github.io/validador-cpf
-- 📂 Repository: https://github.com/SEU-USUARIO/validador-cpf
+- 🌐 Live Site: https://lustrl7.github.io/validador-cpf
+- 📂 Repository: https://github.com/lustrl7/validador-cpf
 
 ---
 
@@ -81,7 +81,7 @@ validador-cpf/
 ## ▶️ Como rodar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/validador-cpf.git
+git clone https://github.com/lustrl7/validador-cpf.git
 cd validador-cpf
 ```
 
@@ -102,4 +102,4 @@ public/index.html
 
 ## 👨‍💻 Autor
 
-Seu nome
+Luis Farfan Lozano
